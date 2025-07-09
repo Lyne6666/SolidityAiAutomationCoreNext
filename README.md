@@ -1,0 +1,2 @@
+# SolidityAiAutomationCoreNext
+Advanced SolidityAiAutomationCoreNext project
